@@ -1,6 +1,6 @@
 # Simple Python To-Do List Manager
 
-A command-line based To-Do List manager implemented in Python. This project serves as a learning exercise for basic Python programming concepts including functions, lists, user input handling, and basic error management.
+A command-line-based To-Do List manager implemented in Python. This project is a learning exercise for basic Python programming concepts including functions, lists, user input handling, and basic error management.
 
 ## Features
 
